@@ -1,0 +1,65 @@
+{
+  "name": "Muhamad Fatkhur Rizki",
+  "short_name": "Rizki",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "description": "Rizki Portfolio showing all his projects, achievements, and skills for when you want to hire him.",
+  "categories": ["portfolio", "projects", "programming", "hiring", "website"],
+  "lang": "English",
+  "theme_color": "#317EFB",
+  "background_color": "#2196f3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./img/maskable-logo.png",
+      "type": "image/png",
+      "sizes": "1000x1000",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./img/logo.png",
+      "type":"image/png",
+      "sizes":"1000x1000"
+    },
+    {
+      "src": "./img/icons/icon48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./img/icons/icon72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./img/icons/icon96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./img/icons/icon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/icons/icon144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./img/icons/icon152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "./img/icons/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
